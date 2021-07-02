@@ -1,0 +1,1 @@
+The repository contains a simple server & client that connect and send data to each other. The connection is encrypted, with end-to-end authentication with self-signed certificates. The server is in Matlab and the client in python. The Matlab server uses python code in it.
